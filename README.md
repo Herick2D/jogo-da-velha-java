@@ -17,6 +17,8 @@ Este é um simples jogo da velha implementado em Java. O jogador 'X' e o jogador
 - Verifica se um jogador venceu após cada jogada.
 - Impede jogadas inválidas, como escolher uma posição já ocupada ou fora dos limites do tabuleiro.
 
+## Observação
+
 Este projeto foi desenvolvido com base nos estudos de Java, e pode conter bugs ou erros não previstos. Se encontrar algum problema, sinta-se à vontade para contribuir ou relatar issues.
 
 Divirta-se jogando o Jogo da Velha!
